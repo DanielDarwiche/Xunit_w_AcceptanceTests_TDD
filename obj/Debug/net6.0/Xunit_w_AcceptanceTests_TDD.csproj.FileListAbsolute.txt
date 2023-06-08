@@ -1,0 +1,5 @@
+C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\obj\Debug\net6.0\Xunit_w_AcceptanceTests_TDD.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\obj\Debug\net6.0\Xunit_w_AcceptanceTests_TDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\obj\Debug\net6.0\Xunit_w_AcceptanceTests_TDD.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\obj\Debug\net6.0\Xunit_w_AcceptanceTests_TDD.AssemblyInfo.cs
+C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\obj\Debug\net6.0\Xunit_w_AcceptanceTests_TDD.csproj.CoreCompileInputs.cache

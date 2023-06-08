@@ -1,10 +1,19 @@
 ﻿namespace Xunit_w_AcceptanceTests_TDD
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
         }
+    }
+    public void RunMenu()
+    {
+        Console.WriteLine();
+        Console.WriteLine();
+        Console.WriteLine();
+        Console.WriteLine();
+        Console.WriteLine();
+        Console.ReadLine();
     }
 }
