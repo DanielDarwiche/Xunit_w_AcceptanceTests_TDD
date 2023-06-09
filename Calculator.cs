@@ -89,32 +89,36 @@ namespace Xunit_w_AcceptanceTests_TDD
                 }
             } while (inputIsCorrect == false);
         }
-        public void Addition(double a, double b)
-        {
-            Result = a + b;
-            MathChoice = "Addition";
-        }
-        public void Subtraction(double a, double b)
-        {
-            Result = a - b;
-            MathChoice = "Subtraction";
-        }
-        public void Multiplication(double a, double b)
-        {
-            Result = a * b;
-            MathChoice = "Multiplication";
-        }
-        public void Division(double a, double b)
-        {
-            Result = a / b;
-            MathChoice = "Division";
-        }
         public void OutputMethod(double a, double b, string mathMethod, double calcResult)
         {
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine($"Calculation of {a} and {b} using {mathMethod} is {calcResult}");
             Console.WriteLine("------------------------------------------------");
             Console.ForegroundColor = ConsoleColor.White;
+        }
+        public double Addition(double a, double b)
+        {
+            Result = a + b;
+            MathChoice = "Addition";
+            return Result;
+        }
+        public double Subtraction(double a, double b)
+        {
+            Result = a - b;
+            MathChoice = "Subtraction";
+            return Result;
+        }
+        public double Multiplication(double a, double b)
+        {
+            Result = a * b;
+            MathChoice = "Multiplication";
+            return Result;
+        }
+        public double Division(double a, double b)
+        {
+            Result = a / b;
+            MathChoice = "Division";
+            return Result;
         }
     }
 }

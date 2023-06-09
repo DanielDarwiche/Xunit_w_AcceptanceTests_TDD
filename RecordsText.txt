@@ -1,2 +1,4 @@
 * Calculation: 1 Division 2 = 0,5
 
+* Calculation: 2 Division 2 = 1
+
