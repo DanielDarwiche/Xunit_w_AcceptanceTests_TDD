@@ -2,3 +2,11 @@
 
 * Calculation: 2 Division 2 = 1
 
+* Calculation: 5 Addition 7 = 12
+
+* Calculation: 5 Subtraction 3 = 2
+
+* Calculation: 10 Multiplication 2 = 20
+
+* Calculation: 25 Division 5 = 5
+

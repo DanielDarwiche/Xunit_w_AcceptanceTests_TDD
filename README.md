@@ -14,7 +14,7 @@ The application is developed in the following process:
 2. Choose 'Addition', in the presented menu.
 3. Enter 5 and press enter.
 4. Enter 7 and press enter.
-5. Check that the displayed result is 10.
+5. Check that the displayed result is 12.
 6. Press enter to return to menu.
 
 Expected result: The expected result is that the function calculates by addition correctly and displays the correct calculation result.
