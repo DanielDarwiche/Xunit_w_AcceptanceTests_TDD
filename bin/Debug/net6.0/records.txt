@@ -1,0 +1,8 @@
+* Calculation: 12 Addition 1 = 13
+
+* Calculation: 1233 Addition 9 = 1242
+
+* Calculation: 12323 Addition 2 = 12325
+
+* Calculation: 1233 Addition 2 = 1235
+

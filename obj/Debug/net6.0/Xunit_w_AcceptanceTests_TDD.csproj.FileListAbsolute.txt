@@ -3,3 +3,13 @@ C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\obj\Debug\net6.0\Xunit_w
 C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\obj\Debug\net6.0\Xunit_w_AcceptanceTests_TDD.AssemblyInfoInputs.cache
 C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\obj\Debug\net6.0\Xunit_w_AcceptanceTests_TDD.AssemblyInfo.cs
 C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\obj\Debug\net6.0\Xunit_w_AcceptanceTests_TDD.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\bin\Debug\net6.0\Xunit_w_AcceptanceTests_TDD.exe
+C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\bin\Debug\net6.0\Xunit_w_AcceptanceTests_TDD.deps.json
+C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\bin\Debug\net6.0\Xunit_w_AcceptanceTests_TDD.runtimeconfig.json
+C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\bin\Debug\net6.0\Xunit_w_AcceptanceTests_TDD.dll
+C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\bin\Debug\net6.0\Xunit_w_AcceptanceTests_TDD.pdb
+C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\obj\Debug\net6.0\Xunit_w_AcceptanceTests_TDD.dll
+C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\obj\Debug\net6.0\refint\Xunit_w_AcceptanceTests_TDD.dll
+C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\obj\Debug\net6.0\Xunit_w_AcceptanceTests_TDD.pdb
+C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\obj\Debug\net6.0\Xunit_w_AcceptanceTests_TDD.genruntimeconfig.cache
+C:\Users\danie\source\repos\Xunit_w_AcceptanceTests_TDD\obj\Debug\net6.0\ref\Xunit_w_AcceptanceTests_TDD.dll
